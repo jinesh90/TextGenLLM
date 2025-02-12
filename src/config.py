@@ -7,6 +7,6 @@ GPT_2_mini_CONFIG_124M = {
     "drop_rate": 0.1,        # Dropout rate
     "layer_density": 4,      # feed forward layer deepness or density
     "qkv_bias": False        # Query-Key-Value bias
-    "data_file": "./data/training.txt"
+    "data_file": "./data/training.txt" # Your training data file
 }
 
